@@ -25,6 +25,10 @@ The first impression was to use the images/frames (frames converted from the vid
 
 *Second Attempt*
 
-The second attempt( and successful one :) ) was to estimate the speed using two frames. I used optical flowOptical flow between every two consecutive frames for this is the pattern of apparent motion of image objects between two consecutive frames caused by the movemement of object
+The second attempt( and successful one :) ) was to estimate the speed using two frames. I used optical [Optical flow](https://docs.opencv.org/3.4/d7/d8b/tutorial_py_lucas_kanade.html) to get the pattern of apparent motion of objects between two consecutive frames caused by the movemement of object. It comes intuetively too that movement of objects is more when the speed is high and less when the speed is low. Hence, Optical flow seems to be the perfect choice in order to predict speed.
+
+*Architecture used*
+
+The Task is done using "End to End Learning for Self-Driving Cars archtecture" ( published in 2016). I have incorporated a few changes (such as introduced dropout) in the architecture to improve the results. 
 
 
