@@ -1,2 +1,6 @@
 # Self-driving-car
-It includes projects related to self driving car.
+This project includes two tasks :
+
+1) Predict the speed of a car from a video.
+
+
