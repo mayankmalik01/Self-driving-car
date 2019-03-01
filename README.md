@@ -31,6 +31,6 @@ The second attempt( and successful one :) ) was to estimate the speed using two 
 
 **Architecture used**
 
-The architecture used is  ["End to End Learning for Self-Driving Cars archtecture"](https://arxiv.org/pdf/1604.07316.pdf). I have incorporated a few changes (such as introduced dropout) in the architecture to improve the results. The implementation and training is done using Pytorch framework.
+The architecture used is  ["End to End Learning for Self-Driving Cars archtecture"](https://arxiv.org/pdf/1604.07316.pdf). I have incorporated a few changes (such as introduced dropout) in the architecture to improve the results. The implementation and training is done using **Pytorch framework**.
 
 
