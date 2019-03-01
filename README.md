@@ -21,15 +21,15 @@ Dataset can be downloaded from  [Comma.ai speed challenge](https://github.com/co
 
 **Methodology and Model used**
 
-*First Attempt*
+**First Attempt**
 
 The first impression was to use the images/frames (frames converted from the video) and feed some CNN model to map with the numbers (speed) . However, after a fre trials, it was clear that single images can't be used to predict speed as single images have no features that can be related with speed. 
 
-*Second Attempt*
+**Second Attempt**
 
 The second attempt( and successful one :) ) was to estimate the speed using two frames. I used optical [Optical flow](https://docs.opencv.org/3.4/d7/d8b/tutorial_py_lucas_kanade.html) to get the pattern of apparent motion of objects between two consecutive frames caused by the movemement of object. It comes intuetively too that movement of objects is more when the speed is high and less when the speed is low. Hence, Optical flow seems to be the perfect choice in order to predict speed.
 
-*Architecture used*
+**Architecture used**
 
 The architecture used is  ["End to End Learning for Self-Driving Cars archtecture"](https://arxiv.org/pdf/1604.07316.pdf). I have incorporated a few changes (such as introduced dropout) in the architecture to improve the results. The implementation and training is done using Pytorch framework.
 
