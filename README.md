@@ -3,7 +3,7 @@ This project includes two tasks :
 
 1) **Predict the speed of a car from a video. ( a challenge released by [Comma.ai](https://github.com/commaai) )**
 
-**Challenge Description
+**Challenge Description from Comma.ai**
 
 *Basically, your goal is to predict the speed of a car from a video.*
 *data/train.mp4 is a video of driving containing 20400 frames. Video is shot at 20 fps.*
