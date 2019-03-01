@@ -3,6 +3,8 @@ This project includes two tasks :
 
 1) **Predict the speed of a car from a video, captured from dashboard cam. ( a challenge released by [Comma.ai](https://github.com/commaai) )**
 
+2) ** Real time "Car" (object) detection using state of the art "SSD (Single Shot MultiBox Detector)" **
+
 **Challenge Description from Comma.ai**
 
 *Basically, your goal is to predict the speed of a car from a video.*
