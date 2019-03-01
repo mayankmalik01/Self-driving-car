@@ -1,7 +1,7 @@
 # Self-driving-car
 This project includes two tasks :
 
-1) **Predict the speed of a car from a video. ( a challenge released by Comma.ai)**
+1) **Predict the speed of a car from a video. ( a challenge released by [Comma.ai](https://github.com/commaai)**
 
 **Challenge Description
 
@@ -14,5 +14,5 @@ Your deliverable is test.txt
 
 We will evaluate your test.txt using mean squared error. <10 is good. <5 is better. <3 is heart.
 
-Dataset can be downloaded from at [Comma.ai speed challenge](https://github.com/commaai/speedchallenge)
+Dataset can be downloaded from  [Comma.ai speed challenge](https://github.com/commaai/speedchallenge)
 
