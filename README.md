@@ -29,6 +29,6 @@ The second attempt( and successful one :) ) was to estimate the speed using two 
 
 *Architecture used*
 
-The Task is done using "End to End Learning for Self-Driving Cars archtecture" ( published in 2016). I have incorporated a few changes (such as introduced dropout) in the architecture to improve the results. 
+The Task is done using ["End to End Learning for Self-Driving Cars archtecture"](https://arxiv.org/pdf/1604.07316.pdf). I have incorporated a few changes (such as introduced dropout) in the architecture to improve the results. 
 
 
