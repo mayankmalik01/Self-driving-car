@@ -11,7 +11,7 @@ This project includes two tasks :
 
 
 
-1) Predict the speed of a car from a video,
+## 1) Predict the speed of a car from a video,
 **Challenge Description from Comma.ai**
 
 ""*Basically, your goal is to predict the speed of a car from a video.*
@@ -41,3 +41,8 @@ The second attempt( and successful one :) ) was to estimate the speed using two 
 The architecture used is  ["End to End Learning for Self-Driving Cars archtecture"](https://arxiv.org/pdf/1604.07316.pdf). I have incorporated a few changes (such as introduced dropout) in the architecture to improve the results. The implementation and training is done using **Pytorch framework**.
 
 
+**Results
+
+**MSE ~3.0 on training dataset and 4.0 on validation**
+
+**Plot of actual speed vs predicted speed**
