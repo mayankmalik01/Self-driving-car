@@ -30,7 +30,7 @@ Dataset can be downloaded from  [Comma.ai speed challenge](https://github.com/co
 
 **First Attempt**
 
-The first impression was to use the images/frames (frames converted from the video) and feed some CNN model to map with the numbers (speed) . However, after a fre trials, it was clear that single images can't be used to predict speed as single images have no features that can be related with speed. 
+The first impression was to use the images/frames (converted from the video) and feed into some CNN models to map with the numbers (speed) . However, after a few trials, it was clear that single images can't be used to predict speed as single images have no features that can be related with speed. 
 
 **Second Attempt**
 
