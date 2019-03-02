@@ -47,4 +47,4 @@ MSE ~3.0 on training dataset and 4.0 on validation
 
 Plot of actual speed vs predicted speed
 
-![](comparison1.png | width=100)
+![](comparison1.png){:height="50%" width="50%"}
