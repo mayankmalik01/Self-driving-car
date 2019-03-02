@@ -5,6 +5,8 @@ This project includes two tasks :
 
 2) **Real time "Car" (object) detection using state of the art "SSD (Single Shot MultiBox Detector)"**
 
+![](output.gif)
+
 **Challenge Description from Comma.ai**
 
 *Basically, your goal is to predict the speed of a car from a video.*
