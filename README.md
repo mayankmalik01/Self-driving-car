@@ -53,7 +53,7 @@ Plot of actual speed vs predicted speed
 ## 2) Real time object detection using MobileNetSSD (Single Shot MultiBox Detector)**
 
 A caffe implementation of MobileNet-SSD detection network, with pretrained weights for object (car) detection
-OpenCV3.4+ . comes up with deep neural network module(DNN), which helps to use pretrained model from deep learning framework such Tensorflow, Caffe, Torch. 
+OpenCV comes up with deep neural network module(DNN), which helps to use pretrained model from deep learning framework such Tensorflow, Caffe, Torch. 
 
 For the purpose of object tetection, the pre trained model is used ["Mobile-SSD](https://github.com/chuanqi305/MobileNet-SSD/)
 
