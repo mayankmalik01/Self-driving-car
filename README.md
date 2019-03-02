@@ -43,6 +43,8 @@ The architecture used is  ["End to End Learning for Self-Driving Cars archtectur
 
 **Results
 
-**MSE ~3.0 on training dataset and 4.0 on validation**
+MSE ~3.0 on training dataset and 4.0 on validation
 
-**Plot of actual speed vs predicted speed**
+Plot of actual speed vs predicted speed
+
+![alt text](http://url/to/img.png)
