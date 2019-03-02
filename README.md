@@ -48,3 +48,6 @@ MSE ~3.0 on training dataset and 4.0 on validation
 Plot of actual speed vs predicted speed
 
 <img src="https://github.com/mayankmalik01/Self-driving-car/blob/master/comparison.png" width="400" height="300">
+
+
+2) **Real time object detection using (Single Shot MultiBox Detector)**
