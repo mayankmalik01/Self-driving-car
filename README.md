@@ -65,6 +65,6 @@ Please refer the comma.ipynb file for the traning and validation.
 1) Clone or download the comma_play.py and train_predict.txt
 2) Get the training datasets from [Comma.ai speed challenge](https://github.com/commaai/speedchallenge). Specifically - train.mp4 and train.txt
 3) Make sure numpy, argparse, and cv2 are installed.
-4) Go to the same folder in commandline and run "comma.py --video train.mp4"
-Make sure you have required  
+4) Go to the same folder in commandline and run "python comma.py --video train.mp4"
+
 
