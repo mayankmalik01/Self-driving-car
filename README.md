@@ -57,3 +57,14 @@ OpenCV comes up with deep neural network module(DNN), which helps to use pretrai
 
 For the purpose of object tetection, the pre trained model is used ["Mobile-SSD](https://github.com/chuanqi305/MobileNet-SSD/)
 
+
+##Training and Validation of Task 1- Prediction of the speed##
+Please refer the comma.ipynb file for the traning and validation.
+
+##Play output in opencv##
+1) Clone or download the comma_play.py and train_predict.txt
+2) Get the training datasets from [Comma.ai speed challenge](https://github.com/commaai/speedchallenge). Specifically - train.mp4 and train.txt
+3) Make sure numpy, argparse, and cv2 are installed.
+4) Go to the same folder in commandline and run "comma.py --video train.mp4"
+Make sure you have required  
+
