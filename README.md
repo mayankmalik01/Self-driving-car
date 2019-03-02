@@ -34,7 +34,7 @@ The first impression was to use the images/frames (converted from the video) and
 
 **Second Attempt**
 
-The second attempt( and successful one :) ) was to estimate the speed using two frames. I used optical [Optical flow](https://docs.opencv.org/3.4/d7/d8b/tutorial_py_lucas_kanade.html) to get the pattern of apparent motion of objects between two consecutive frames caused by the movemement of object. It comes intuetively too that movement of objects is more when the speed is high and less when the speed is low. Hence, Optical flow seems to be the perfect choice in order to predict speed.
+The second attempt( and a successful one :) ) was to estimate the speed using two frames. I used optical [Optical flow](https://docs.opencv.org/3.4/d7/d8b/tutorial_py_lucas_kanade.html) to get the pattern of apparent motion of objects between two consecutive frames caused by the movemement of object. Clearly the movement of objects is more when the speed is high and less when the speed is low. Hence, Optical flow seems to be the perfect choice in order to predict speed.
 
 **Architecture used**
 
